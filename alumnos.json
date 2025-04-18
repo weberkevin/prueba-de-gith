@@ -1,0 +1,14 @@
+{
+    "Alumnos": [
+        {
+            "Nombre": "pepe",
+            "Apellido": "pepe",
+            "DNI": "12345678",
+            "Fecha de nacimiento": "121212",
+            "Tutor": "papa",
+            "Notas": [],
+            "Faltas": 0,
+            "Amonestaciones": 0
+        }
+    ]
+}
